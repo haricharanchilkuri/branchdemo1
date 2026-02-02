@@ -1,2 +1,4 @@
 this is file4 on branch3
 this file is modified at branch by team member
+=======
+thi file is modified at branch3 by team lead
